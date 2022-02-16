@@ -18,7 +18,7 @@
                     <key>bundle-identifier</key>
                      <string>live.yremp.Shadowrocket</string>
                      <key>bundle-version</key>
-                    <string>2.1.12</string>
+                    <string>21.1.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
