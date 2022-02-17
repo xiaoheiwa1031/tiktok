@@ -17,13 +17,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                     <string>live.yremp.tiktok</string>
+                     <string>TikTok</string>
                      <key>bundle-version</key>
                     <string>21.1.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>tiktok国际版</string>
+                    <string>TikTok</string>
                 </dict>
             </dict>
         </array>
