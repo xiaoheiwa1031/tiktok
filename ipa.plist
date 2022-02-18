@@ -11,7 +11,7 @@
       <key>kind</key>
       <string>software-package</string>
       <key>url</key>
-      <string>https://objects.githubusercontent.com/github-production-release-asset-2e65be/459834856/4e579111-3a33-4333-a770-0b8929a86230?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220218%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220218T112314Z&X-Amz-Expires=300&X-Amz-Signature=35c9f58868018222405e6779eb1bfb762fba305c4e3d3721130b25f749d03a7f&X-Amz-SignedHeaders=host&actor_id=99459877&key_id=0&repo_id=459834856&response-content-disposition=attachment%3B%20filename%3DTikTok21.1.0.ipa&response-content-type=application%2Foctet-stream</string>
+      <string> https://github.com/xiaoheiwa1031/tiktok/releases/download/1.0/TikTok21.1.0.ipa</string>
      </dict>
      <dict>
       <key>kind</key>
