@@ -19,7 +19,7 @@
       <key>needs-shine</key>
       <false/>
       <key>url</key>
-      <string>下载时大图（非必填）</string>
+      <string>https://cdn.jsdelivr.net/gh/xiaoheiwa1031/tiktok@main/assets/images/icon.jpg</string>
      </dict>
      <dict>
       <key>kind</key>
@@ -27,7 +27,7 @@
       <key>needs-shine</key>
       <false/>
       <key>url</key>
-      <string>下载时小图（非必填）</string>
+      <string>https://cdn.jsdelivr.net/gh/xiaoheiwa1031/tiktok@main/assets/images/icon.jpg</string>
      </dict>
     </array>
     <key>metadata</key>
